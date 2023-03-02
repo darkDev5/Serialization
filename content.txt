@@ -1,0 +1,5 @@
+Serialization
+--------------------
+isSerializable()
+serialize()
+deSerialize()
