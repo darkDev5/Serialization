@@ -26,7 +26,7 @@ public @Getter
      *
      * @return Returns true if it implements Serializable interface and false if not.
      */
-    public boolean isSerialized() {
+    public boolean isSerializable() {
         return object instanceof Serializable;
     }
 
